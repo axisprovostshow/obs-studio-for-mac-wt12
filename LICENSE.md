@@ -1,4 +1,4 @@
-# 
+# OBS Studio for macOS rare Automation: chromatic-aberration-fix & stream-overlays offers the most advanced OBS Studio for macOS automation, with chromatic-aberration-fix and
 
 
 
